@@ -8,6 +8,8 @@ public class Mayan extends Language{
 	}
 	   @Override
 	   public void getInfo(){
+		   
+		   // THITIIIIIIIIIII HELLO
 
 	       System.out.println(this.name + " is spoken by " + this.numSpeakers + " people mainly in " + this.regionSpoken + ". \nThe language follows the word order: " + this.wordOrder + ".\nFun fact:" + this.name +" is an ergative language.");
 	     }
