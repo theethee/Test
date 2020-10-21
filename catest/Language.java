@@ -3,7 +3,7 @@ package catest;
 public class Language{
  
   protected String name;
-  protected int numSpeakers;
+  protected int numSpeakers; // HEJHEJHEJ
   protected String regionSpoken;
   protected String wordOrder;
 
