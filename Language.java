@@ -4,7 +4,7 @@ public class Language{
  
   protected String name;
   protected int numSpeakers;
-  protected String regionSpoken;
+  protected String regionSpoken; //HEJHEJHEJEHJ
   protected String wordOrder;
 
 protected Language(String langName, int langNumSpeakers, String langRegionSpoken, String langWordOrder){
